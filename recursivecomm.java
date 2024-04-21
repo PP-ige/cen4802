@@ -30,6 +30,6 @@ public class recursivecomm{
         int n =10;
         int y = fib(n);
 
-        System.out.println("The " + n + "th term of the Fibonacci sequence is "+y);
+        System.out.println("The " + n + "th term of the Fibonacci sequence is "+ y);
     }//end of main
   }//end of recursive
